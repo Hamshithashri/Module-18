@@ -55,6 +55,6 @@ if __name__ == "__main__":
 ## OUTPUT
 <img width="1185" height="198" alt="image" src="https://github.com/user-attachments/assets/86f36feb-a31b-4f64-b947-ad20cea3891b" />
 
-##RESULT
+## RESULT
 Therefore, the output is the example to write a Python program to find the shortest possible route that visits every city exactly once and returns to the starting point using the **Travelling Salesman Problem (TSP)** approach.
 
